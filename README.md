@@ -14,3 +14,8 @@
 12. **Order Status:** The order and shipping process follows several stages once the order is placed, such as processing, delivery in progress, and delivered.
 13. **Reviews:** Users can leave reviews for products they have purchased, which include a rating from 1-5 and a text comment.
 14. **Promotions:** The website allows for promotions or sales to be run, which allows for one or more product categories to have a specific discount on their price.
+
+**References:** 
+- [Requirements](https://www.youtube.com/watch?v=1HamqOuv2Cw) 
+- [Go](https://www.youtube.com/watch?v=c4Y1pQ1necw&t)
+- [Jenkins](https://www.youtube.com/watch?v=xF_nJjHJvNU)
