@@ -6,7 +6,7 @@
 4.  **Payment Methods:** Users can add one or more payment methods to their account and can set a default payment method.
 5.  **Products:** The website can store a large number of products.
 6.  **Categories:** Each product belongs to a category, and categories can belong to other categories.
-7.  **Product Variations:** Each product can have different variations, such as different colours or sizes. Each of these variations (e.g. colour) can have different values (e.g. red, blue, black).
+7.  **Product Variations:** Each product can have different variations, such as different colors or sizes. Each of these variations (e.g. colour) can have different values (e.g. red, blue, black).
 8.  **Number In Stock:** The website should keep track of the number of each product that is in stock.
 9.  **Shopping Cart:** Visitors can add one or more products to their shopping cart as part of their shopping experience. Shopping carts are not saved in the database unless they are logged in.
 10. **Payment Details for Order:** A user needs to provide their payment details and address details as part of placing an order.
