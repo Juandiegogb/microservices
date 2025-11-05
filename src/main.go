@@ -18,5 +18,5 @@ func main() {
 	})
 
 	router.Run(":9000")
-	//test github jenkins integration
+	//test GitHub jenkins integration
 }
